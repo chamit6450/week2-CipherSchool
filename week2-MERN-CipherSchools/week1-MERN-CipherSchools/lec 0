@@ -1,0 +1,10 @@
+git config --global user.name "ajaymalik8059"
+
+git config --global user.email "ajaymalik23@lpu.in"
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ajaymalik8059/CipherSchool-fullStackdevelopment
+git push -u origin main
